@@ -1,0 +1,22 @@
+
+#branch-list li{
+    list-style: none;
+}
+
+
+#branch-list li a{
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    font-weight: bold;    
+}
+
+#branch-list li a:hover{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+#branch-list li a h2{
+    font-weight: bold;    
+}
+

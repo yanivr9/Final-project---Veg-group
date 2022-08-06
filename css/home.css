@@ -1,0 +1,37 @@
+
+main{
+    margin:  0 auto;
+}
+
+#header-img{
+    object-fit: cover;        
+}
+
+
+main ul{
+    list-style: none;
+}
+
+main ul li h6{
+    text-align: center;
+}
+
+main ul li p{
+    text-align: justify;
+}
+
+main ul li img{
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+}
+
+#home-headline{
+    border-bottom: solid 2px;
+    border-color: #ffa500;      width: 60%;
+}
+
+.dogsvid{
+    height: auto;
+    width: 95%;
+}

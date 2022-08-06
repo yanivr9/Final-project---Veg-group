@@ -1,0 +1,24 @@
+.dog-list{
+    display: block;
+    margin: 0 auto;
+}
+
+.dog-list a:hover{
+    text-decoration:none;
+    columns: black;
+}
+
+.dog-item{
+ margin: 0 autp;
+ list-style: none; 
+}
+
+.dog-item h3,h4{
+    color:black
+}
+
+.dog-item img{
+    width: 100%;
+    display: block;
+    margin:0 auto;
+}
